@@ -34,6 +34,5 @@ As seguintes variáveis de ambiente são necessárias para a aplicação:
 - `dynamoService`: Responsável pela interação com o DynamoDB.
 - `eventService`: Responsável pela gestão de eventos na aplicação.
 
-## Contribuindo
-
-Pull requests são bem-vindos. Para mudanças importantes, por favor, abra uma issue primeiro para discutir o que você gostaria de mudar.
+## Autor
+Emerson Amorim
